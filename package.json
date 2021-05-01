@@ -1,0 +1,21 @@
+{
+  "name": "javascript-dependency-injection-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DependencyInjectionContainer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phalvesr/javascript-dependency-injection-pattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phalvesr/javascript-dependency-injection-pattern/issues"
+  },
+  "homepage": "https://github.com/phalvesr/javascript-dependency-injection-pattern#readme"
+}
